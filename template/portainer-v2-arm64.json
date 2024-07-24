@@ -5430,7 +5430,7 @@
 					"name": "PGID"
 				},
 				{
-					"default": "America/New_York",
+					"default": "America/Sao_Paulo",
 					"label": "TZ",
 					"name": "TZ"
 				},
